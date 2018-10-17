@@ -33,7 +33,7 @@ As a result the flows, property files, pom.xml of one application can be resused
       ![ScreenShot](https://raw.githubusercontent.com/indiramallick1988/Demo2/master/maven/flow.PNG)	  
       By this all the flows, connections can be reused
       
-      ![ScreenShot](https://raw.githubusercontent.com/indiramallick1988/Demo2/master/maven/config - Copy.png)   
+      ![ScreenShot](https://raw.githubusercontent.com/indiramallick1988/Demo2/master/maven/configCopy.png)   
    3. To make pom.xml of utility App as parent pom of Main App
    
       ![ScreenShot](https://raw.githubusercontent.com/indiramallick1988/Demo2/master/maven/parent.png)	  
